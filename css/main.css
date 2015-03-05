@@ -1,0 +1,75 @@
+.ToDoList {
+	background-color: #CC3333;
+	margin: 0% auto;
+	display: inline-block;
+	border-radius: 20px;
+	padding-bottom: 4rem;
+}
+
+body {
+	background-color: #CC3333;
+}
+
+.list {
+	display: inline;
+}
+
+.toplabel {
+	display: block;
+	font-family: "open sans condensed", Sans-serif;
+	text-align: center;
+	font-weight: 700;
+	padding-left: 4rem;
+	padding-right: 4rem;
+	font-size: 5rem;
+}
+
+//*asfhks*//
+
+.owl {
+	margin: 0% auto;
+	display: block;
+	width: 15%;
+	padding-top: 2rem;
+}
+
+li {
+	font-family: "Open Sans Condensed", Sans-serif;
+	list-style: none;
+	font-weight: 300;
+	font-size: .75rem;
+	margin: 0% auto;
+	position: relative;
+	padding-left: 43%;
+}
+
+.form {
+	margin: 0% auto;
+}
+
+.addbutton {
+	background-color: #91140a;
+	border-radius: 20px;
+	font-family: "open sans condensed", sans-serif;
+	font-weight: 700;
+	font-size: 1rem;
+	padding: .5rem;
+	color: blacks;
+	border: none;
+	width: 75px;
+	text-align: center;
+	display: inline-block;
+}
+
+.checkbox {
+	background-color: #CC3333;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 40%;
+    top: 0;
+    background-image: url("http://www.clipartbest.com/cliparts/Kin/ggd/Kinggdeiq.png");
+    background-size: 100%;
+    border: none;
+
+	}
